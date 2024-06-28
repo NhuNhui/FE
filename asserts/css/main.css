@@ -1,0 +1,9 @@
+.header {
+    height: 120px;
+    background-image: linear-gradient(0,#f68f3b,#f6643b);
+}
+
+.container {
+    height: 120px;
+    background-image: linear-gradient(0,#3bf695,#48f63b);
+}
